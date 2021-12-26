@@ -42,6 +42,7 @@ main p {
 
 header {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
+    font-family: var(--fonte-destaque);
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
